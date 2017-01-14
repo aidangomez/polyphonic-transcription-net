@@ -1,0 +1,12 @@
+{
+    "learning_rate": 0.001,
+    "max_epoch": 100000,
+    "batch_size": 50,
+    "test_interval": 500,
+    "snapshot_interval": 5000,
+
+    "lstm_units": 400,
+    "layer_count": 3,
+    "max_sequence_length": 60,
+    "min_sequence_length": 15
+}
